@@ -1,4 +1,4 @@
-# Moodbot-
+# Moodbot
 This was a final project for the Boston University's Information Structure with Python 521 Course.
 
 Having suffered from depression a few years ago, I learned that sometimes the smallest reminders can go a long way in changing your mindset and actions. Although a simple Moodbot program is unlikely to prevent extreme cases from happening, the program aims to include actions that allow a user to reflect on their current situation and, if even slightly, increase the mood of the user by providing options to select that trigger actions based on a mood score that they input.
