@@ -3,7 +3,7 @@ This was a final project for the Boston University's Information Structure with 
 
 Having suffered from depression a few years ago, I learned that sometimes the smallest reminders can go a long way in changing your mindset and actions. Although a simple Moodbot program is unlikely to prevent extreme cases from happening, the program aims to include actions that allow a user to reflect on their current situation and, if even slightly, increase the mood of the user by providing options to select that trigger actions based on a mood score that they input.
 
-To run the code one must simply run the mammar_final.py file.
+To run the code one must simply run the main.py file.
 
 The program starts by prompting the user for their name, a close contact, birthday, and to score their current mood from 1-10. Once the user has entered their information, an instance of the class ‘User’ class is created for the user, and methods from this class are used in the main program.
 
